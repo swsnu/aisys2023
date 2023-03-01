@@ -1,10 +1,4 @@
-# aisys2023
-
-
-
-
-
-# Paper list
+# aisys2023 paper list
 
 ## OSDI
 
