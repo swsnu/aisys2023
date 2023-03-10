@@ -30,3 +30,7 @@ Machine Learning. Martín Abadi, Paul Barham, Jianmin Chen, Zhifeng Chen, Andy D
 #### Required reading
 - [PyTorch](https://papers.nips.cc/paper/2019/file/bdbca288fee7f92f2bfa9f7012727740-Paper.pdf). PyTorch: An Imperative Style, High-Performance
 Deep Learning Library. NeurIPS 2019.
+
+### 3/21
+#### Required reading
+- [Ray](https://www.usenix.org/system/files/osdi18-moritz.pdf). Ray: A Distributed Framework for Emerging AI Applications. Philipp Moritz, Robert Nishihara, Stephanie Wang, Alexey Tumanov, Richard Liaw, Eric Liang, Melih Elibol, Zongheng Yang, William Paul, Michael I. Jordan, and Ion Stoica, UC Berkeley. OSDI 2018.
