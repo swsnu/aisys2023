@@ -33,4 +33,10 @@ Deep Learning Library. NeurIPS 2019.
 
 ### 3/21
 #### Required reading
-- [Ray](https://www.usenix.org/system/files/osdi18-moritz.pdf). Ray: A Distributed Framework for Emerging AI Applications. Philipp Moritz, Robert Nishihara, Stephanie Wang, Alexey Tumanov, Richard Liaw, Eric Liang, Melih Elibol, Zongheng Yang, William Paul, Michael I. Jordan, and Ion Stoica, UC Berkeley. OSDI 2018.
+- [JANUS](https://www.usenix.org/system/files/nsdi19-jeong.pdf). JANUS: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Programs. Eunji Jeong, Sungwoo Cho, Gyeong-In Yu, Joo Seong Jeong, Dong-Jin Shin, Byung-Gon Chun. NSDI 2019.
+
+#### Extra reading
+- [AutoGraph](https://arxiv.org/pdf/1810.08061.pdf). AutoGraph: Imperative-Style Coding with Graph-based Performance. Dan Moldovan, James M Decker, Fei Wang, Andrew A Johnson, Brian K Lee, Zachary Nado, D Sculley, Tiark Rompf, Alexander B Witschko. MLSys 2019.
+- [TFEager](https://mlsys.org/Conferences/2019/doc/2019/88.pdf). TensorFlow Eager: A Multi-Stage, Python Embedded DSL for Machine Learning. Akshay Agrawal, Akshay Naresh Modi, Alexandre Passos, Allen Lavoie, Ashish Agarwal, Asim Shankar, Igor Ganichev, Josh Levenberg, Mingsheng Hong, Rajat Monga, Shanqing Cai. MLSys 2019.
+- [Terra](https://proceedings.neurips.cc/paper/2021/file/0b32f1a9efe5edf3dd2f38b0c0052bfe-Paper.pdf) Terra: Imperative-Symbolic Co-Execution of Imperative Deep Learning Programs Taebum Kim, Eunji Jeong, Geon-Woo Kim, Yunmo Koo, Sehoon Kim, Gyeongin Yu, Byung-Gon Chun. NeurIPS 2021.
+
