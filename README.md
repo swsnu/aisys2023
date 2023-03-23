@@ -43,5 +43,9 @@ Deep Learning Library. NeurIPS 2019.
 ### 3/23
 - PyTorch internals
 
+### 3/28
+#### Required reading
+- [Halide](https://people.csail.mit.edu/jrk/halide-pldi13.pdf). Halide: A Language and Compiler for Optimizing Parallelism, Locality, and Recomputation in Image Processing Pipelines. Jonathan Ragan-Kelley, Connelly Barnes, Andrew Adams, Sylvain Paris, Fredo Durand, Saman Amarasinghe. PLDI 2013.
+
 ### 3/30
 - Project proposal
