@@ -49,3 +49,12 @@ Deep Learning Library. NeurIPS 2019.
 
 ### 3/30
 - Project proposal
+
+### 4/4
+#### Required reading
+- [TVM](https://www.usenix.org/system/files/osdi18-chen.pdf). An Automated End-to-End Optimizing Compiler for Deep Learning. Tianqi Chen, Thierry Moreau, Ziheng Jiang, Lianmin Zheng, Eddie Yan, Haichen Shen, Meghan Cowan, Leyuan Wang, Yuwei Hu, Luis Ceze, Carlos Guestrin, Arvind Krishnamurthy. OSDI 2018.
+
+#### Extra reading
+- [TC](https://arxiv.org/pdf/1802.04730.pdf). Tensor Comprehensions: Framework-Agnostic High-Performance Machine Learning Abstractions. Nicolas Vasilache, Oleksandr Zinenko, Theodoros Theodoridis, Priya Goyal, Zachary DeVito, William S. Moses, Sven Verdoolaege, Andrew Adams, Albert Cohen. 2018.
+- [TACO](http://tensor-compiler.org/kjolstad-oopsla17-tensor-compiler.pdf). The Tensor Algebra Compiler. Kjolstad, Fredrik and Kamil, Shoaib and Chou, Stephen and Lugato, David and Amarasinghe, Saman. OOPSLA 2017.
+
