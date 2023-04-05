@@ -58,3 +58,20 @@ Deep Learning Library. NeurIPS 2019.
 - [TC](https://arxiv.org/pdf/1802.04730.pdf). Tensor Comprehensions: Framework-Agnostic High-Performance Machine Learning Abstractions. Nicolas Vasilache, Oleksandr Zinenko, Theodoros Theodoridis, Priya Goyal, Zachary DeVito, William S. Moses, Sven Verdoolaege, Andrew Adams, Albert Cohen. 2018.
 - [TACO](http://tensor-compiler.org/kjolstad-oopsla17-tensor-compiler.pdf). The Tensor Algebra Compiler. Kjolstad, Fredrik and Kamil, Shoaib and Chou, Stephen and Lugato, David and Amarasinghe, Saman. OOPSLA 2017.
 
+### 4/6
+#### Extra reading
+- [Ansor](https://www.usenix.org/system/files/osdi20-zheng.pdf). Lianmin Zheng, Chengfan Jia, Minmin Sun, Zhao Wu, Cody Hao Yu, Ameer Haj-Ali, Yida Wang, Jun Yang, Danyang Zhuo, Koushik Sen, Joseph E. Gonzalez, Ion Stoica. Ansor: Generating High-Performance Tensor Programs for Deep Learning. OSDI 2020.
+
+### 4/11
+#### Required reading
+- [Roller](https://www.usenix.org/system/files/osdi22-zhu.pdf). Roller: Fast and Efficient Tensor Compilation for Deep Learning. OSDI 2022.
+
+#### Extra reading
+- [SparTA](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf). SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute. OSDI 2022.
+
+### 4/13
+#### Required reading
+- [TASO](https://cs.stanford.edu/~padon/taso-sosp19.pdf). TASO: Optimizing Deep Learning Computation with Automatic Generation of Graph Substitutions. Zhihao Jia, Oded Padon, James Thomas, Todd Warszawski, Matei Zaharia, Alex Aiken. SOSP 2019.
+
+#### Extra reading
+- [PET](https://www.usenix.org/system/files/osdi21-wang-haojie.pdf). Pet: Optimizing Tensor Programs with Partially Equivalent Transformations and  Automated Corrections. OSDI 2021.
