@@ -75,3 +75,9 @@ Deep Learning Library. NeurIPS 2019.
 
 #### Extra reading
 - [PET](https://www.usenix.org/system/files/osdi21-wang-haojie.pdf). Pet: Optimizing Tensor Programs with Partially Equivalent Transformations and  Automated Corrections. OSDI 2021.
+
+### 4/18
+#### Required reading
+- [Nimble](https://papers.nips.cc/paper/2020/file/5f0ad4db43d8723d18169b2e4817a160-Paper.pdf). Nimble: Lightweight and Parallel GPU Task Scheduling for Deep Learning. Woosuk Kwon, Gyeong-In Yu, Eunji Jeong, Byung-Gon Chun. NeurIPS 2020 (Spotlight).
+- [Rammer](https://www.usenix.org/system/files/osdi20-ma.pdf). Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks. Lingxiao Ma, Zhiqiang Xie, Zhi Yang, Jilong Xue, Youshan Miao, Wei Cui, Wenxiang Hu, Fan Yang, Lintao Zhang, Lidong Zhou. OSDI 2020.
+
