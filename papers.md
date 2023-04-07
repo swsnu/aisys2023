@@ -311,6 +311,9 @@ Jianbang Yang (IPADS, Shanghai Jiao Tong University), Dahai Tang (Hunan Universi
 Out-Of-Order BackProp: An Effective Scheduling Technique for Deep Learning.
 Hyungjun Oh, Junyeol Lee, Hyeongju Kim, and Jiwon Seo (Hanyang University)
 
+D3: A Dynamic Deadline-Driven Approach for Building Autonomous Vehicles.
+Ionel Gog, Sukrit Kalra, Peter Schafhalter, Joseph E. Gonzalez, Ion Stoica. (UC Berkeley)
+
 ### 2023
 
 SiloD: A Co-design of Caching and Scheduling for Deep Learning Clusters    Hanyu Zhao (Peking University), Zhenhua Han (Microsoft Research), Zhi Yang (Peking University), Quanlu Zhang (Microsoft Research), Mingxia Li (USTC), Fan Yang (Microsoft Research), Qianxi Zhang (Microsoft Research), Binyang Li (Microsoft), Yuqing Yang (Microsoft Research), Lili Qiu (Microsoft Research), Lintao Zhang (BaseBit Technologies), Lidong Zhou (Microsoft Research)
