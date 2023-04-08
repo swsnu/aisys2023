@@ -64,17 +64,18 @@ Deep Learning Library. NeurIPS 2019.
 
 ### 4/11
 #### Required reading
-- [Roller](https://www.usenix.org/system/files/osdi22-zhu.pdf). Roller: Fast and Efficient Tensor Compilation for Deep Learning. OSDI 2022.
-
-#### Extra reading
-- [SparTA](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf). SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute. OSDI 2022.
-
-### 4/13
-#### Required reading
 - [TASO](https://cs.stanford.edu/~padon/taso-sosp19.pdf). TASO: Optimizing Deep Learning Computation with Automatic Generation of Graph Substitutions. Zhihao Jia, Oded Padon, James Thomas, Todd Warszawski, Matei Zaharia, Alex Aiken. SOSP 2019.
 
 #### Extra reading
 - [PET](https://www.usenix.org/system/files/osdi21-wang-haojie.pdf). Pet: Optimizing Tensor Programs with Partially Equivalent Transformations and  Automated Corrections. OSDI 2021.
+
+### 4/13
+#### Required reading
+- [SparTA](https://www.usenix.org/system/files/osdi22-zheng-ningxin.pdf). SparTA: Deep-Learning Model Sparsity via Tensor-with-Sparsity-Attribute. OSDI 2022.
+
+#### Extra reading
+- [Roller](https://www.usenix.org/system/files/osdi22-zhu.pdf). Roller: Fast and Efficient Tensor Compilation for Deep Learning. OSDI 2022.
+
 
 ### 4/18
 #### Required reading
