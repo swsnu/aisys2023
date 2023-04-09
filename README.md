@@ -67,7 +67,10 @@ Deep Learning Library. NeurIPS 2019.
 - [TASO](https://cs.stanford.edu/~padon/taso-sosp19.pdf). TASO: Optimizing Deep Learning Computation with Automatic Generation of Graph Substitutions. Zhihao Jia, Oded Padon, James Thomas, Todd Warszawski, Matei Zaharia, Alex Aiken. SOSP 2019.
 
 #### Extra reading
-- [PET](https://www.usenix.org/system/files/osdi21-wang-haojie.pdf). Pet: Optimizing Tensor Programs with Partially Equivalent Transformations and  Automated Corrections. OSDI 2021.
+- [PET](https://www.usenix.org/system/files/osdi21-wang-haojie.pdf). PET: Optimizing Tensor Programs with Partially Equivalent Transformations and  Automated Corrections. OSDI 2021.
+- [AStitch](https://pacman.cs.tsinghua.edu.cn/~zjd/publication/asplos-22-zhenzheng/asplos-22-zhenzheng.pdf). AStitch: Enabling A New Multi-Dimensional Optimization Space for Memory-Intensive ML Training and Inference on Modern SIMT Architectures. Zhen Zheng, Xuanda Yang, Pengzhan Zhao, Guoping Long, Kai Zhu, Feiwen Zhu, Wenyi Zhao, Xiaoyong Liu, Jun Yang, Jidong Zhai, Shuaiwen Leon Song, Wei Lin. ASPLOS 2022.
+
+
 
 ### 4/13
 #### Required reading
