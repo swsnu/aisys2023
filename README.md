@@ -85,3 +85,10 @@ Deep Learning Library. NeurIPS 2019.
 - [Nimble](https://papers.nips.cc/paper/2020/file/5f0ad4db43d8723d18169b2e4817a160-Paper.pdf). Nimble: Lightweight and Parallel GPU Task Scheduling for Deep Learning. Woosuk Kwon*, Gyeong-In Yu*, Eunji Jeong, Byung-Gon Chun. NeurIPS 2020 (Spotlight).
 - [Rammer](https://www.usenix.org/system/files/osdi20-ma.pdf). Rammer: Enabling Holistic Deep Learning Compiler Optimizations with rTasks. Lingxiao Ma, Zhiqiang Xie, Zhi Yang, Jilong Xue, Youshan Miao, Wei Cui, Wenxiang Hu, Fan Yang, Lintao Zhang, Lidong Zhou. OSDI 2020.
 
+### 4/20
+#### Required reading
+- [Clipper](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-crankshaw.pdf). A Low-Latency Online Prediction Serving System. Daniel Crankshaw, Xin Wang, Guilio Zhou, Michael J. Franklin, Joseph E. Gonzalez, Ion Stoica. NSDI 2017. 
+
+#### Extra reading
+- [PRETZEL](https://www.usenix.org/system/files/osdi18-lee.pdf). PRETZEL: Opening the Black Box of Machine Learning Prediction Serving Systems. Yunseong Lee, Alberto Scolari, Byung-Gon Chun, Marco Domenico Santambrogio, Markus Weimer, Matteo Interlandi. OSDI 2018.
+
