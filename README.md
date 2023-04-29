@@ -95,3 +95,12 @@ Deep Learning Library. NeurIPS 2019.
 ### 5/2
 - Mid project presentation
 
+### 5/4
+
+#### Required reading
+- [Clockwork](https://www.usenix.org/system/files/osdi20-gujarati.pdf). Serving DNNs like Clockwork: Performance Predictability from the Bottom Up. Arpan Gujarati, Reza Karimi, Safya Alzayat, Wei Hao, Antoine Kaufmann, Ymir Vigfusson, Jonathan Mace. OSDI 2020.
+
+### 5/9
+
+#### Required reading
+- [Orca](https://www.usenix.org/system/files/osdi22-yu.pdf). Orca: A Distributed Serving System for Transformer-Based Generative Models. Gyeong-In Yu, Joo Seong Jeong, Geon-Woo Kim, Soojeong Kim, Byung-Gon Chun. OSDI 2022.
