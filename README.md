@@ -92,3 +92,6 @@ Deep Learning Library. NeurIPS 2019.
 #### Extra reading
 - [PRETZEL](https://www.usenix.org/system/files/osdi18-lee.pdf). PRETZEL: Opening the Black Box of Machine Learning Prediction Serving Systems. Yunseong Lee, Alberto Scolari, Byung-Gon Chun, Marco Domenico Santambrogio, Markus Weimer, Matteo Interlandi. OSDI 2018.
 
+### 5/2
+- Mid project presentation
+
