@@ -104,3 +104,12 @@ Deep Learning Library. NeurIPS 2019.
 
 #### Required reading
 - [Orca](https://www.usenix.org/system/files/osdi22-yu.pdf). Orca: A Distributed Serving System for Transformer-Based Generative Models. Gyeong-In Yu, Joo Seong Jeong, Geon-Woo Kim, Soojeong Kim, Byung-Gon Chun. OSDI 2022.
+
+### 5/11
+
+#### Required reading
+- [Parallax](https://https://spl.snu.ac.kr/wp-content/uploads/2012/07/parallax.pdf). Parallax: Sparsity-aware Data Parallel Training of Deep Neural Networks. Soojeong Kim, Gyeong-In Yu, Hojin Park, Sungwoo Cho, Eunji Jeong, Hyeonmin Ha, Sanha Lee, Joo Seong Jeong, Byung-Gon Chun. EuroSys 2019.
+
+#### Extra reading
+- [Horovod](https://arxiv.org/pdf/1802.05799.pdf). Horovod: fast and easy distributed deep learning in TensorFlow. Alexander Sergeev and Mike Del Balso, arXiv 2018.
+- [PS](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf). Scaling Distributed Machine Learning with the Parameter Server. Mu Li, David G. Andersen, Jun Woo Park, Alexander J. Smola, Amr Ahmed, Vanja Josifovski, James Long, Eugene J. Shekita, and Bor-Yiing Su. OSDI 2014.
