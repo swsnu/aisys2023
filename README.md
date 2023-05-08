@@ -113,3 +113,21 @@ Deep Learning Library. NeurIPS 2019.
 #### Extra reading
 - [Horovod](https://arxiv.org/pdf/1802.05799.pdf). Horovod: fast and easy distributed deep learning in TensorFlow. Alexander Sergeev and Mike Del Balso, arXiv 2018.
 - [PS](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-li_mu.pdf). Scaling Distributed Machine Learning with the Parameter Server. Mu Li, David G. Andersen, Jun Woo Park, Alexander J. Smola, Amr Ahmed, Vanja Josifovski, James Long, Eugene J. Shekita, and Bor-Yiing Su. OSDI 2014.
+
+### Coming up
+
+#### Required reading
+- [MegatronLM](https://arxiv.org/pdf/2104.04473.pdf). Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM. SC 2021.
+- [ZeroInfinity](https://arxiv.org/pdf/2104.07857.pdf). ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning. SC 2021.
+
+#### Extra reading
+- [GPipe].
+- [Pipedream]
+
+#### Required reading
+- [Unity](https://www.cs.cmu.edu/~zhihaoj2/papers/unity_osdi22.pdf). Unity: Accelerating DNN Training Through Joint Optimization of Algebraic Transformations and Parallelization. OSDI 2022.
+- [Alpa](https://www.usenix.org/system/files/osdi22-zheng-lianmin.pdf). Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning. OSDI 2022.
+
+#### Extra reading
+- [BytePS]
+- [ByteScheduler]
