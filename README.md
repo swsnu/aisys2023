@@ -129,5 +129,6 @@ Deep Learning Library. NeurIPS 2019.
 - [Alpa](https://www.usenix.org/system/files/osdi22-zheng-lianmin.pdf). Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning. OSDI 2022.
 
 #### Extra reading
+- [GSPMD](https://arxiv.org/pdf/2105.04663.pdf). GSPMD: General and Scalable Parallelization for ML Computation Graphs. ICLR 2021.
 - [BytePS]
 - [ByteScheduler]
