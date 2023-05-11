@@ -144,11 +144,13 @@ Deep Learning Library. NeurIPS 2019.
 #### Required reading
 - [tf.data](https://vldb.org/pvldb/vol14/p2945-klimovic.pdf). tf.data: A Machine Learning Data Processing Framework. VLDB 2021.
 
-### 5/30
+### 5/30 
+- [Gandiva](https://www.usenix.org/system/files/osdi18-xiao.pdf). Gandiva: Introspective Cluster Scheduling for Deep Learning. OSDI 2018.
+- [Tiresias](https://www.usenix.org/system/files/nsdi19-gu.pdf). Tiresias: A GPU Cluster Manager for Distributed Deep Learning. NSDI 2019.
 
 ### 6/1
 
-### 6/8
+### 6/8 (TBD)
 
 ### 6/13 & 6/15
 - Final project presentation with a demo
