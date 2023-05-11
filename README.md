@@ -135,4 +135,5 @@ Deep Learning Library. NeurIPS 2019.
 - [PipeDream](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf). PipeDream: Generalized Pipeline Parallelism for DNN Training. Deepak Narayanan, Aaron Harlap, Amar Phanishayee, Vivek Seshadri, Nikhil R. Devanur, Gregory R. Ganger, Philip B. Gibbons, Matei Zaharia. SOSP 2019.
 - [MeshTensorflow](https://arxiv.org/pdf/1811.02084.pdf). Mesh-TensorFlow: Deep Learning for Supercomputers. NeurIPS 2018.
 
-
+### 6/13 & 6/15
+- Final project presentation with a demo
