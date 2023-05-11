@@ -148,8 +148,6 @@ Deep Learning Library. NeurIPS 2019.
 
 ### 6/1
 
-### 6/6
-
 ### 6/8
 
 ### 6/13 & 6/15
