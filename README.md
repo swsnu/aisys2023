@@ -150,7 +150,7 @@ Deep Learning Library. NeurIPS 2019.
 
 ### 6/1
 
-### 6/8 (TBD)
+### 6/8 
 
-### 6/13 & 6/15
+### 6/13 
 - Final project presentation with a demo
