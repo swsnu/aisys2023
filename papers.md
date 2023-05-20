@@ -120,6 +120,35 @@ Chijun Sima, Tencent; Yao Fu and Man-Kit Sit, The University of Edinburgh; Liyi 
 Efficient and Scalable Graph Pattern Mining on GPUs
 Xuhao Chen and Arvind, MIT CSAIL
 
+### 2023
+
+Beta: Statistical Multiplexing with Model Parallelism for Deep Learning Serving
+Zhuohan Li and Lianmin Zheng, UC Berkeley; Yinmin Zhong, Peking University; Vincent Liu, University of Pennsylvania; Ying Sheng, Stanford University; Xin Jin, Peking University; Yanping Huang and Zhifeng Chen, Google; Hao Zhang, Joseph E. Gonzalez, and Ion Stoica, UC Berkeley
+
+Grinder: Analysis and Optimization for Dynamic Control Flow in Deep Learning
+Chen Zhang, Tsinghua University; Lingxiao Ma and Jilong Xue, Microsoft Research; Yining Shi, Peking University & Microsoft Research; Ziming Miao, Microsoft; Fan Yang, Microsoft Research Asia; Jidong Zhai, Tsinghua University; Zhi Yang, Peking University; Mao Yang, Microsoft Research
+
+Welder: Scheduling Deep Learning Memory Access via Tile-graph
+Yining Shi, Peking University & Microsoft Research; Zhi Yang, Peking University; Jilong Xue, Lingxiao Ma, Yuqing Xia, Ziming Miao, Yuxiao Guo, Fan Yang, and Lidong Zhou, Microsoft Research
+
+Effectively Scheduling Computational Graphs of Deep Neural Networks toward Their Domain-Specific Accelerators
+Jie Zhao, State Key Laboratory of Mathematical Engineering and Advanced Computing; Lianmin Zheng, UC Berkeley; Siyuan Feng, Shanghai Jiao Tong University; Chen Tian, ACM; Xiaoqiang Dan, Fei Liu, Chengke Wang, Sheng Yuan, Wenyuan Lv, and Qikai Xie, Stream Computing Inc.
+
+EinNet: Optimizing Tensor Programs with Derivation-Based Transformations
+Liyan Zheng, Haojie Wang, Jidong Zhai, Muyan Hu, Zixuan Ma, Tuowei Wang, and Shuhong Huang, Tsinghua University; Xupeng Miao, Carnegie Mellon University; Shizhi Tang and Kezhao Huang, Tsinghua University; Zhihao Jia, Carnegie Mellon University
+
+Hydro: Surrogate-Based Hyperparameter Tuning Service in the Datacenter
+Qinghao Hu, Tianwei Zhang, Yonggang Wen, and Meng Zhang, Nanyang Technological University; Peng Sun, SenseTime; Zhisheng Ye, Peking University; Qiaoling Chen, National University of Singapore
+
+Accelerating Graph Neural Networks with Fine-grained intra-kernel Communication-Computation Pipelining on Multi-GPU Platforms
+Yuke Wang, Boyuan Feng, and Zheng Wang, University of California, Santa Barbara; Tong Geng, Kevin Barker, and Ang Li, Pacific Northwest National Laboratory; Yufei Ding, University of California, Santa Barbara
+
+Optimizing Dynamic Neural Networks with Brainstorm
+Weihao Cui, Shanghai Jiao Tong University; Zhenhua Han, Microsoft Research; Lingji Ouyang, USTC; Yichuan Wang, Shanghai Jiao Tong University; Ningxin Zheng, Lingxiao Ma, Yuqing Yang, Fan Yang, and Jilong Xue, Microsoft Research; Lili Qiu, UT Austin, MSR Asia Shanghai; Lidong Zhou, Microsoft Research; Quan Chen, Shanghai Jiao Tong University; Haisheng Tan, University of Science and Technology of China; Minyi Guo, Shanghai Jiao Tong University
+
+AdaEmbed: Adaptive Embedding for Large-Scale Recommendation Models
+Fan Lai, University of Michigan; Wei Zhang, Rui Liu, William Tsai, Xiaohan Wei, Yuxi Hu, Sabin Devkota, Jianyu Huang, Jongsoo Park, Xing Liu, Zeliang Chen, Ellie Wen, Paul Rivera, Jie You, and Jason Chen, Meta Inc.; Mosharaf Chowdhury, University of Michigan
+
 
 ## SOSP
 
