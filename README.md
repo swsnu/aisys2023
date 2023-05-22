@@ -119,7 +119,6 @@ Deep Learning Library. NeurIPS 2019.
 
 #### Required reading
 - [Unity](https://www.cs.cmu.edu/~zhihaoj2/papers/unity_osdi22.pdf). Unity: Accelerating DNN Training Through Joint Optimization of Algebraic Transformations and Parallelization. OSDI 2022.
-- [Alpa](https://www.usenix.org/system/files/osdi22-zheng-lianmin.pdf). Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning. OSDI 2022.
 
 #### Extra reading
 - [GSPMD](https://arxiv.org/pdf/2105.04663.pdf). GSPMD: General and Scalable Parallelization for ML Computation Graphs. ICLR 2021.
@@ -128,8 +127,7 @@ Deep Learning Library. NeurIPS 2019.
 ### 5/18
 
 #### Required reading
-- [MegatronLM](https://arxiv.org/pdf/2104.04473.pdf). Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM. SC 2021.
-- [ZeroInfinity](https://arxiv.org/pdf/2104.07857.pdf). ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning. SC 2021.
+- [Alpa](https://www.usenix.org/system/files/osdi22-zheng-lianmin.pdf). Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning. OSDI 2022.
 
 #### Extra reading
 - [PipeDream](https://cs.stanford.edu/~matei/papers/2019/sosp_pipedream.pdf). PipeDream: Generalized Pipeline Parallelism for DNN Training. Deepak Narayanan, Aaron Harlap, Amar Phanishayee, Vivek Seshadri, Nikhil R. Devanur, Gregory R. Ganger, Philip B. Gibbons, Matei Zaharia. SOSP 2019.
@@ -142,7 +140,10 @@ Deep Learning Library. NeurIPS 2019.
 ### 5/25
 
 #### Required reading
+- [MegatronLM](https://arxiv.org/pdf/2104.04473.pdf). Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM. SC 2021.
+- [ZeroInfinity](https://arxiv.org/pdf/2104.07857.pdf). ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning. SC 2021.
 - [tf.data](https://vldb.org/pvldb/vol14/p2945-klimovic.pdf). tf.data: A Machine Learning Data Processing Framework. VLDB 2021.
+
 
 ### 5/30 
 - [Gandiva](https://www.usenix.org/system/files/osdi18-xiao.pdf). Gandiva: Introspective Cluster Scheduling for Deep Learning. OSDI 2018.
