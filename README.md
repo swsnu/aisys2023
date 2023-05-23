@@ -144,12 +144,14 @@ Deep Learning Library. NeurIPS 2019.
 - [ZeroInfinity](https://arxiv.org/pdf/2104.07857.pdf). ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning. SC 2021.
 - [tf.data](https://vldb.org/pvldb/vol14/p2945-klimovic.pdf). tf.data: A Machine Learning Data Processing Framework. VLDB 2021.
 
-
 ### 5/30 
-- [Gandiva](https://www.usenix.org/system/files/osdi18-xiao.pdf). Gandiva: Introspective Cluster Scheduling for Deep Learning. OSDI 2018.
-- [Tiresias](https://www.usenix.org/system/files/nsdi19-gu.pdf). Tiresias: A GPU Cluster Manager for Distributed Deep Learning. NSDI 2019.
+- 고성능 딥러닝 추론 가속기를 위한 하드웨어 앱스트랙션 설계
 
 ### 6/1
+
+#### Required reading
+- [Gandiva](https://www.usenix.org/system/files/osdi18-xiao.pdf). Gandiva: Introspective Cluster Scheduling for Deep Learning. OSDI 2018.
+- [Tiresias](https://www.usenix.org/system/files/nsdi19-gu.pdf). Tiresias: A GPU Cluster Manager for Distributed Deep Learning. NSDI 2019.
 
 ### 6/8 
 
