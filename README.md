@@ -153,7 +153,16 @@ Deep Learning Library. NeurIPS 2019.
 - [Gandiva](https://www.usenix.org/system/files/osdi18-xiao.pdf). Gandiva: Introspective Cluster Scheduling for Deep Learning. OSDI 2018.
 - [Tiresias](https://www.usenix.org/system/files/nsdi19-gu.pdf). Tiresias: A GPU Cluster Manager for Distributed Deep Learning. NSDI 2019.
 
+#### Extra reading
+- [Themis](https://www.usenix.org/system/files/nsdi20-paper-mahajan.pdf). Themis: Fair and Efficient GPU Cluster Scheduling. NSDI 2020.
+- [Gavel](https://www.usenix.org/system/files/osdi20-narayanan_deepak.pdf). Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads. OSDI 2020.
+- [Antman](https://www.usenix.org/system/files/osdi20-xiao.pdf). AntMan: Dynamic Scaling on GPU Clusters for Deep Learning. OSDI 2020. 
+- [HiveD](https://www.usenix.org/system/files/osdi20-zhao_hanyu.pdf). HiveD: Sharing a GPU Cluster for Deep Learning
+  with Guarantees. OSDI 2020.
+
+
 ### 6/8 
+- [Pollux](https://www.usenix.org/system/files/osdi21-qiao.pdf). Pollux: Co-adaptive Cluster Scheduling for Goodput-Optimized Deep Learning. OSDI 2021.
 
 ### 6/13 
 - Final project presentation with a demo
