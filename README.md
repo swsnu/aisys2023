@@ -161,6 +161,8 @@ Deep Learning Library. NeurIPS 2019.
 - [HiveD](https://www.usenix.org/system/files/osdi20-zhao_hanyu.pdf). HiveD: Sharing a GPU Cluster for Deep Learning
   with Guarantees. OSDI 2020.
 
+### 6/5
+- ATOM: Versatile yet Energy-efficient Inference SoC
 
 ### 6/8 
 #### Required reading
