@@ -163,6 +163,7 @@ Deep Learning Library. NeurIPS 2019.
 
 
 ### 6/8 
+#### Required reading
 - [Pollux](https://www.usenix.org/system/files/osdi21-qiao.pdf). Pollux: Co-adaptive Cluster Scheduling for Goodput-Optimized Deep Learning. OSDI 2021.
 
 #### Extra reading
