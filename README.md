@@ -141,6 +141,7 @@ Deep Learning Library. NeurIPS 2019.
 
 #### Required reading
 - [MegatronLM](https://arxiv.org/pdf/2104.04473.pdf). Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM. SC 2021.
+- [Zero](https://arxiv.org/pdf/1910.02054.pdf).ZeRO: Memory Optimizations Toward Training Trillion Parameter Models. SC 2020.
 - [ZeroInfinity](https://arxiv.org/pdf/2104.07857.pdf). ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning. SC 2021.
 - [tf.data](https://vldb.org/pvldb/vol14/p2945-klimovic.pdf). tf.data: A Machine Learning Data Processing Framework. VLDB 2021.
 
