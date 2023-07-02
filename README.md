@@ -103,7 +103,7 @@ Deep Learning Library. NeurIPS 2019.
 ### 5/9
 
 #### Required reading
-- [Orca](https://www.usenix.org/system/files/osdi22-yu.pdf). Orca: A Distributed Serving System for Transformer-Based Generative Models. Gyeong-In Yu, Joo Seong Jeong, Geon-Woo Kim, Soojeong Kim, Byung-Gon Chun. OSDI 2022.
+- [Orca](https://www.usenix.org/system/files/osdi22-yu.pdf). Orca: A Distributed Serving System for Transformer-Based Generative Models. Gyeong-In Yu, Joo Seong Jeong, Geon-Woo Kim, Soojeong Kim, Byung-Gon Chun. OSDI 2022. (patented)
 
 ### 5/11
 
